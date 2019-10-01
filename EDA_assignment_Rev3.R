@@ -1,4 +1,4 @@
-# This program read data about pollutant emission in the yeas of 1999, 2002, 2005, and 2008
+# This program read data about pollutant emission in the years of 1999, 2002, 2005, and 2008
 #
 
 library(dplyr)
